@@ -1,3 +1,3 @@
 # Hello_world
-Training Repository \n
+Training Repository /n
 A bit about myself:)
